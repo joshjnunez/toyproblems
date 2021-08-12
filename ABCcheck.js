@@ -36,4 +36,4 @@ Otherwise return false.
     return myBool;
     };
     
-console.log(ABCheck('axx bxxxxxxx'));
+console.log(ABCheck('boy are these toy problems neat'));
